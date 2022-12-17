@@ -3,17 +3,23 @@
     /*background-color: gold;*/
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: gold;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 800;
+    /*width: 300px;
+    padding: 750px;*/
     
-}
-    
+}    
 body {
     background-color: darkslateblue;
+    
 }
 
 .h1 {
     color: black;
     font-size: 80px;
     font-weight: 700;
+    text-align: center;
+} 
+.ul {
+    list-style: none
 }
