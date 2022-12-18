@@ -8,10 +8,17 @@ a, a:hover, a:visited, a:active {
     font-size: 40px;
     font-weight: 800;
     color: #3499eb;
-    width: 300px;
-    padding-left: 780px;
-    padding-top: 150px;
+    display: block;
+    text-align: center;
+    padding: 100px;
 }    
+
+.cookie{
+    padding-right: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 
 body {
     background-color: blanchedalmond
