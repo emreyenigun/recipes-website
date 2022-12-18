@@ -1,25 +1,26 @@
-.main-list {
-    text-decoration: solid;
-    /*background-color: gold;*/
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: gold;
+a, a:hover, a:visited, a:active {
+  color: inherit;
+  text-decoration: none;
+ }
+
+.links {  
+    font-family: Georgia, 'Times New Roman', Times, serif;  
     font-size: 40px;
     font-weight: 800;
-    /*width: 300px;
-    padding: 750px;*/
-    
+    color: #3499eb;
+    width: 300px;
+    padding-left: 780px;
+    padding-top: 150px;
 }    
+
 body {
-    background-color: darkslateblue;
+    background-color: blanchedalmond
     
 }
 
-.h1 {
+h1 {
     color: black;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
 } 
-.ul {
-    list-style: none
-}
